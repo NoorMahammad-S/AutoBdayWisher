@@ -38,6 +38,3 @@ Contributions to AutoBdayWisher are welcome! Whether you want to add new feature
 # License:
 This project is released under the MIT License, allowing for free use, modification, and distribution.
 
-
-
-
